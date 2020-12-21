@@ -26,7 +26,7 @@ Simple Blog即为极简博客，实现的功能有
 
 ### API的设计介绍
 
-我们的博客一共有6个APT，分别是：
+我们的博客一共有6个API，分别是：
 
 - GET /article/{id}/comments
 - GET /article/{id}
